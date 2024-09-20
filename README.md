@@ -1,5 +1,5 @@
 # vaonis
-script to download fits on vespera pro
+script to download fits on vespera pro (maybe it can work for others vaonis's product)
 
 prerequisites
 
