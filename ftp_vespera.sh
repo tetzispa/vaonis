@@ -6,7 +6,7 @@ FTP_USER="anonymous"     # Utilisateur FTP / FTP username
 REMOTE_DIR="/user"       # Repertoire distant de depart / Starting remote directory
 
 # Repertoire local ou telecharger les fichiers / Local directory to download files
-LOCAL_DIR="/mnt/d/vaonis"
+LOCAL_DIR="CHANGE-FOR-YOUR-FOLDER"
 
 # Intervalle entre chaque verification (en secondes) / Interval between checks (in seconds)
 CHECK_INTERVAL=15
