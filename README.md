@@ -21,4 +21,4 @@ CHECK_INTERVAL="time_in_second" (set the time compared with exposure time on exp
 
 By default the script goes to "/user/" folder and check the most recent folder and check on sub folders where the file fits where, after that, the script will download the fits and deleted them. After 10 failed check (the script can(t find any fits files) the script shuts off
 
-Maybe you can improve if you are planning to shoot more than 1 object by night (because i think the script will end during the time the vespera aim another target, so you should increase the check_interval or the max_failed_checks)
+Maybe you can improve it if you are planning to shoot more than 1 object by night (because i think the script will end during the time the vespera aim another target, so you should increase the check_interval or the max_failed_checks)
