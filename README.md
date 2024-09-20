@@ -15,6 +15,7 @@ download the script, and make it executable (chmod +x ftp_vespera.sh) and execut
 change the following parameters to adapt with your environment :
 
 LOCAL_DIR="here_your_disk_letter_and_folder_name"
+
 CHECK_INTERVAL="time_in_second" (set the time compared with exposure time on expert mode) 
 
 By default the script goes to "/user/" folder and check the most recent folder and check on sub folders where the file fits where, after that, the script will download the fits and deleted them. After 10 failed check (the script can(t find any fits files) the script shuts off
