@@ -9,7 +9,7 @@ REMOTE_DIR="/user"       # Repertoire distant de depart / Starting remote direct
 LOCAL_DIR="CHANGE-FOR-YOUR-FOLDER"
 
 # Intervalle entre chaque verification (en secondes) / Interval between checks (in seconds)
-CHECK_INTERVAL=15
+CHECK_INTERVAL="TIME-IN-SECOND"
 
 # Compteur de tentatives infructueuses / Counter for unsuccessful checks
 FAILED_CHECKS=0
